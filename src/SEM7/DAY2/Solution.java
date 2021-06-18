@@ -15,6 +15,7 @@ public class Solution implements AdvancedArithmetic{
             if(n%i==0)
                 multiples+=i;
         }
+
         return multiples;
     }
 
